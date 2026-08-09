@@ -1,11 +1,30 @@
-<h1 align="center">Hi 👋, I'm Priyanshu Kumar Jaiswal</h1>
-<h3 align="center">A passionate programmer from India</h3>
+<div align="center">
+
+# Hi 👋, I'm Priyanshu Kumar Jaiswal
+
+### A passionate programmer from India 🇮🇳
+
+</div>
+
+<table>
+<tr>
+<td width="55%" valign="top">
 
 - 🌱 I’m currently learning **Data Structures**
-
 - 👯 I’m looking to collaborate on **OpenSource Projects**
-
 - 📫 How to reach me **priyanshuku818@gmail.com**
+- 💻 Interested in **Software Development**
+- ⚡ I enjoy learning new technologies and building projects
+
+</td>
+
+<td width="45%" align="center">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding GIF">
+
+</td>
+</tr>
+</table>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
