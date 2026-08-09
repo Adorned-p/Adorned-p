@@ -6,23 +6,17 @@
 
 </div>
 
-<table>
-<tr>
-<td width="55%" valign="top">
+<img align="right"
+     src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
+     width="450"
+     alt="Coding GIF">
 
 - 🌱 I’m currently learning **Data Structures**
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 - 📫 How to reach me **priyanshuku818@gmail.com**
-- ⚡ Fun fact **I'm Tech Enthusiast**
-</td>
+- ⚡ Fun fact: **My code works perfectly... until someone watches. 👀**
 
-<td width="45%" align="center">
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding GIF">
-
-</td>
-</tr>
-</table>
+<!-- <br clear="right"> -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
