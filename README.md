@@ -13,9 +13,7 @@
 - 🌱 I’m currently learning **Data Structures**
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 - 📫 How to reach me **priyanshuku818@gmail.com**
-- 💻 Interested in **Software Development**
-- ⚡ I enjoy learning new technologies and building projects
-
+- ⚡ Fun fact **I'm Tech Enthusiast**
 </td>
 
 <td width="45%" align="center">
@@ -28,8 +26,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="www.linkedin.com/in/priyanshu-kumar-jaiswal-0ab45b356" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/priyanshu-kumar-jaiswal-0ab45b356" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/jJ2i9OeHis/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/jJ2i9OeHis/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/www.linkedin.com/in/priyanshu-kumar-jaiswal-0ab45b356" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/priyanshu-kumar-jaiswal-0ab45b356" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/u/jj2i9oehis/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/jj2i9oehis/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
