@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm Priyanshu Kumar Jaiswal
 
-### A passionate programmer from India 🇮🇳
+### A passionate programmer from India
 
 </div>
 
