@@ -9,7 +9,7 @@
 <img align="right"
      src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
      width="450"
-     alt="Coding GIF">
+     alt="Coding">
 
 - 🌱 I’m currently learning **Data Structures**
 - 👯 I’m looking to collaborate on **OpenSource Projects**
